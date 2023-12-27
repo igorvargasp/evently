@@ -5,7 +5,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { ICategory } from "@/lib/database/models/category.model";
+import { ICategory } from "@/lib/database/modals/category.model";
 import { startTransition, useEffect, useState } from "react";
 import {
   AlertDialog,
